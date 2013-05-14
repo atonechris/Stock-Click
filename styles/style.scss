@@ -1,0 +1,15 @@
+﻿/**
+* Project name
+*
+* Main project stylesheet combiner
+*
+* @section      Base
+* @author       ldeleuran
+*/
+// Include framework and normalization 
+@import "framework/_vars";
+@import "framework/_framework";
+@import "framework/_normalize";
+
+// Include modules 
+@import "modules/_baseline";

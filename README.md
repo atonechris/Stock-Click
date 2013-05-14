@@ -1,0 +1,1 @@
+Stock-Click is a web interface for accessing stock information. 
